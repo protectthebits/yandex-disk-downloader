@@ -29,14 +29,17 @@ Install requirements using pip:
 
 ```bash
 pip install requests tqdm
+```
 
 ---
 
 ## 🚀 Usage
+
 Run the script:
 
 ```bash
 python3 yandex-disk-downloader.py
+```
 
 You will be prompted to enter:
 - The Yandex Disk public URL
@@ -45,6 +48,7 @@ You will be prompted to enter:
 ```bash
 Enter the Yandex Disk public URL: https://disk.yandex.com/d/YOEhWFYUKNpezA
 Enter the destination folder (default: ./yandex_download):
+```
 
 ---
 
