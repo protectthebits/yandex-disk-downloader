@@ -29,3 +29,21 @@ Install requirements using pip:
 
 ```bash
 pip install requests tqdm
+
+## 🚀 Usage
+Run the script:
+
+python3 yandex-disk-downloader.py
+
+You will be prompted to enter:
+- The Yandex Disk public URL
+- The destination folder (press Enter to use the default ./yandex_download)
+
+## 🛠️ How It Works
+
+1. The script queries the Yandex Disk API for the file list
+2. Recursively walks folders and files
+3. Gets direct download links
+4. Downloads files using multiple threads
+5. Shows real-time progress
+
