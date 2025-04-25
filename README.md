@@ -1,4 +1,4 @@
-# 📥 Yandex Disk Public Folder Downloader
+# 📥 Yandex Disk Downloader
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-ISC-green.svg)](LICENSE)
