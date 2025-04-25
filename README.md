@@ -45,6 +45,7 @@ You will be prompted to enter:
 - The Yandex Disk public URL
 - The destination folder (press Enter to use the default ./yandex_download)
 
+Example with a public Yandex Disk URL:
 ```bash
 Enter the Yandex Disk public URL: https://disk.yandex.com/d/YOEhWFYUKNpezA
 Enter the destination folder (default: ./yandex_download):
